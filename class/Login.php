@@ -21,7 +21,7 @@ class Login
 
 	private function login()
 	{
-		$credentials = parse_ini_file('auth.ini');
+		$credentials = parse_ini_file('data/auth.ini');
 
 		if ($this->username == $credentials['username'] && password_verify($this->password, $credentials['password'])) {
 			$this->logged = true;
