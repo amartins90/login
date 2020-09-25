@@ -1,3 +1,3 @@
 # Login
 
-Simple class to authenticate an user
+Simple user authentication.

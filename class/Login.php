@@ -1,6 +1,6 @@
 <?php
 /**
- * This class implements a login service with encrypted password. 
+ * This class authenticates an user validating username and password. 
  * 
  * @author Alexandre J. Martins <alexandre@ajmartins.com.br> github.com/amartins90
  *
