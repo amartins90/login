@@ -1,3 +1,3 @@
 # Login
 
-Simple user authentication.
+Basic user authentication using encrypted password.
